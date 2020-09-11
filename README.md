@@ -42,7 +42,7 @@
 ---  
 
 **Лекция 2 - 11.09.2020**  
-*links*
+*links*  
 [Задачи тысячелетия](https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B4%D0%B0%D1%87%D0%B8_%D1%82%D1%8B%D1%81%D1%8F%D1%87%D0%B5%D0%BB%D0%B5%D1%82%D0%B8%D1%8F)  
 [NP-полные задачи](https://alexeykalina.github.io/technologies/np-completeness.html)  
 
