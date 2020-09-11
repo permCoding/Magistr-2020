@@ -21,6 +21,19 @@
 * [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)
 
 ---
+**Полезные ссылки**  
+*Для самостоятельной учёбы:*  
+1) SoloLearn на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=com.sololearn&hl=ru)  
+в SoloLearn подпишитесь на курс Python 3 и начинайте изучать  
+2) Stepik на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=org.stepic.droid&hl=ru)  
+*Чем будем пользоваться:*  
+1) Язык программирования **Python** - https://www.python.org/downloads/  
+2) Редактор кода **VS Code** - https://code.visualstudio.com/  
+3) Клиент Git`а для Windows - [ссылка](https://central.github.com/deployments/desktop/desktop/latest/win32)  
+4) Клиент Git`а для андроида - [ссылка](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=en)  
+5) Git для Windows - [ссылка](https://git-scm.com/)  
+
+---
 
 **входной контроль** тут: https://contest.yandex.ru/contest/19620  
 Входить туда можно под своим аккаунтом в Яндексе (короче, нужна почта от яндекса).  
