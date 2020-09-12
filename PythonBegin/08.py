@@ -7,6 +7,7 @@ def get_fib(n):
     else:
         return get_fib(n-1) + get_fib(n-2)
 
+
 def get_fib_mem(n):
     # global fibs # список передаётся по ссылке ;)
     if n < 3:
@@ -17,6 +18,7 @@ def get_fib_mem(n):
         if fibs[n - 2] == 0:
             fibs[n - 2] = get_fib_mem(n - 2)
         return fibs[n - 1] + fibs[n - 2]
+
 
 n = 136
 fibs = [0] * n
