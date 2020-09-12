@@ -8,7 +8,7 @@ def get_fib(n):
         return get_fib(n-1) + get_fib(n-2)
 
 def get_fib_mem(n):
-    global fibs
+    # global fibs # список передаётся по ссылке ;)
     if n < 3:
         return 1
     else:
