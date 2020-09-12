@@ -23,12 +23,14 @@
 ---
 **Полезные ссылки**  
 
-*Для самостоятельной учёбы:*  
+*Для самостоятельной учёбы и развития:*  
 1) **SoloLearn** на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=com.sololearn&hl=ru)  
 в SoloLearn подпишитесь на курс Python 3 и начинайте изучать  
 2) **Stepik** на телефон, вот тут для андроида: [ссылка](https://play.google.com/store/apps/details?id=org.stepic.droid&hl=ru)  
 Степиком можно пользоваться и с телефона и с ПК, создайте аккаунт, выберете найдите курс по Питону (их много и простых и посложнее)  
 вот [курс для начинающих](https://stepik.org/58852/)  
+3) Аудио-подкаст Мысли и методы: [ссылка](https://soundcloud.com/mimpod)  
+4) Приложение для андроида для этих подкастов: [ссылка](https://play.google.com/store/apps/details?id=com.soundcloud.android&hl=ru)  
 
 *Чем будем пользоваться:*  
 1) Язык программирования **Python** - https://www.python.org/downloads/  
