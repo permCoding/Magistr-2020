@@ -16,10 +16,10 @@
 ---
 
 ### Занятия будем проводить дистанционно:
-* [Первая точка входа BBB](https://bbb.psaa.ru/b/and-jtj-y2r)
 * [Первая точка входа BBB5](https://bbb5.psaa.ru/b/and-kbv-awj)  
 * [Вторая точка входа Zoom](https://us04web.zoom.us/j/6931731236?pwd=T1lNamFoMjJtMHlSbWVKZHF2d3Qwdz09)
 * [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)
+* [Четвёртая точка входа Discord](https://discord.gg/8MnQJ3t)  
 
 ---
 **Полезные ссылки**  
