@@ -114,6 +114,7 @@ P vs NP алгоритмы.
 **Лекция 5 - 21.09.2020**  
 
 **18:00-20:00 - Часть 1 - Основная часть**  
+[Стандарт PEP 8 по оформлению кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)  
 Продолжаем работать в [Блокноте Лекции - Ассимптотика](https://colab.research.google.com/drive/1Cwn_ZQjUEmln24_cfNLlTJ9AF8bZ0OOX?usp=sharing)  
 Сравнение линейного и бинарного поиска.  
 Рекурсивный поиск в отсортированном массиве  
