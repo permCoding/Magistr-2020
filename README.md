@@ -39,7 +39,7 @@
 3) **Клиент Git`а** для Windows - [ссылка](https://central.github.com/deployments/desktop/desktop/latest/win32)  
 4) **Клиент Git`а** для андроида - [ссылка](https://play.google.com/store/apps/details?id=com.thirtydegreesray.openhub&hl=en)  
 5) **Git** для Windows - [ссылка](https://git-scm.com/)  
-
+6) [Стандарт PEP 8 по оформлению кода на Python](https://pythonworld.ru/osnovy/pep-8-rukovodstvo-po-napisaniyu-koda-na-python.html)  
 ---
 
 **входной контроль** тут: https://contest.yandex.ru/contest/19620  
