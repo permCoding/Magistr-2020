@@ -18,6 +18,7 @@
 Две учебные дисциплины:
 1) Анализ и разработка алгоритмов - Лекций 5; л/р 6; ДифЗачёт
 2) Объектно-ориентированное программирование - Лекций 5; л/р 6; Экзамен
+
 ---
 
 ### Занятия будем проводить дистанционно:
@@ -26,7 +27,16 @@
 * [Третья точка входа MyWebinar](https://go.mywebinar.com/npkg-qmfz-cgsl-cdtw)
 * [Четвёртая точка входа Discord](https://discord.gg/8MnQJ3t)  
 
----
+---  
+
+### Все интерактивные Блокноты по темам:  
+* [Блокнот Ассимптотика](https://colab.research.google.com/drive/1Cwn_ZQjUEmln24_cfNLlTJ9AF8bZ0OOX?usp=sharing)  
+* [Блокнот Комбинаторика](https://colab.research.google.com/drive/1uSfAX_00sNxPLD0QdAhSHR22ecBuK1P8?usp=sharing)  
+* [Блокнот с частичным разбором способов решения Задачи о лягушках](https://colab.research.google.com/drive/1BgF6Jo31vUz_FRiwiSCDyuRMWfY0QLRJ?usp=sharing)  
+* [Блокнот Жадные алгоритмы](https://colab.research.google.com/drive/1wpH90ZhKLDDrhLjhqj1_L5gd6aqpYx-D?usp=sharing)  
+
+---  
+
 **Полезные ссылки**  
 
 *Для самостоятельной учёбы и развития:*  
