@@ -199,6 +199,8 @@ P vs NP алгоритмы.
 **18:00-21:00**  
 **Динамика - часть 1**  
 [Блокнот Динамика 1](https://colab.research.google.com/drive/12u6ePvNFlITzqOVMxaag0Vh7Lp2xDDz2?usp=sharing)  
+[Презентация Динамика](https://pcoding.ru/pdf/backpack.pdf)  
+
 Задача *О заполнении рюкзака.*  
 Постановка задачи. 
 
