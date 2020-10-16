@@ -34,7 +34,7 @@
 * [Блокнот Комбинаторика](https://colab.research.google.com/drive/1uSfAX_00sNxPLD0QdAhSHR22ecBuK1P8?usp=sharing)  
 * [Блокнот с частичным разбором способов решения Задачи о лягушках](https://colab.research.google.com/drive/1BgF6Jo31vUz_FRiwiSCDyuRMWfY0QLRJ?usp=sharing)  
 * [Блокнот Жадные алгоритмы](https://colab.research.google.com/drive/1wpH90ZhKLDDrhLjhqj1_L5gd6aqpYx-D?usp=sharing)  
-[Блокнот Динамика 1](https://colab.research.google.com/drive/12u6ePvNFlITzqOVMxaag0Vh7Lp2xDDz2?usp=sharing)  
+* [Блокнот Динамика 1](https://colab.research.google.com/drive/12u6ePvNFlITzqOVMxaag0Vh7Lp2xDDz2?usp=sharing)  
 
 ---  
 
