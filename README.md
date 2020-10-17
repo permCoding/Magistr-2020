@@ -229,7 +229,7 @@ P vs NP алгоритмы.
 * двумерная динамика  
 * дорешивание задачи о заполнении рюкзака  
 
-[Блокнот Динамика 2]()  
+[Блокнот Динамика 2](https://colab.research.google.com/drive/1xb6lvnzGMCdEZyzoH433LCaj8rHhug7i?usp=sharing)  
 Контрольная работа на степике  [Динамика](https://stepik.org/82800/)  
 
 ---
