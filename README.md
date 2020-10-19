@@ -35,6 +35,7 @@
 * [Блокнот с частичным разбором способов решения Задачи о лягушках](https://colab.research.google.com/drive/1BgF6Jo31vUz_FRiwiSCDyuRMWfY0QLRJ?usp=sharing)  
 * [Блокнот Жадные алгоритмы](https://colab.research.google.com/drive/1wpH90ZhKLDDrhLjhqj1_L5gd6aqpYx-D?usp=sharing)  
 * [Блокнот Динамика 1](https://colab.research.google.com/drive/12u6ePvNFlITzqOVMxaag0Vh7Lp2xDDz2?usp=sharing)  
+* [Блокнот Динамика 2](https://colab.research.google.com/drive/1xb6lvnzGMCdEZyzoH433LCaj8rHhug7i?usp=sharing)  
 
 ---  
 
@@ -213,13 +214,32 @@ P vs NP алгоритмы.
 
 В папке [backpack](https://github.com/permCoding/Magistr-2020/tree/master/backpack) этого репозитория будут входные данные (*.txt, *.csv) и версии реализации программы.  
 
+---  
+
+**День 12 - 16.10.2020**  
+**18:00-21:00**  
+**Решение задач**  
+Индивидуальная работа. Обсуждение алгоритмов обработки файлов, списков.  
+Примеры программ в репозитории в папке **facultative**  
+
+---  
+**День 13 - 19.10.2020**  
+**18:00-21:00**  
+**Динамика - часть 2**  
+* одномерная динамика  
+* двумерная динамика  
+* дорешивание задачи о заполнении рюкзака  
+
+[Блокнот Динамика 2](https://colab.research.google.com/drive/1xb6lvnzGMCdEZyzoH433LCaj8rHhug7i?usp=sharing)  
+Контрольная работа на степике  [Динамика](https://stepik.org/82800/)  
+
 ---
 
 **Это последующие задачи**  
 
 Задача о ферзях  
 
-Практический пример: рекурсивный перебор директорий.  
+Практический пример: рекурсивный перебор директорий, файлов.  
 
 [Кредитный рейтинг](https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B5%D0%B4%D0%B8%D1%82%D0%BD%D1%8B%D0%B9_%D1%80%D0%B5%D0%B9%D1%82%D0%B8%D0%BD%D0%B3)  
 Задачка на собеседовании для джунов.  
