@@ -248,7 +248,7 @@ P vs NP алгоритмы.
 
 ---
 
-**День 16 - 29.10.2020**  
+**День 16 - 30.10.2020**  
 **18:00-21:00**  
 **Сортировка кучей. Бинарное дерево.**  
 * [Блокнот HEAP](https://colab.research.google.com/drive/1PDPh0NDHKX4sISLBmb4G6OPpDas5l9uY?usp=sharing)  
